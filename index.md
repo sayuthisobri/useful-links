@@ -1,4 +1,4 @@
-# Loftwah's Awesome List
+# Awesome List
 
 - This is the for the stuff I've used, am using, or, would recommend.
 
